@@ -3,17 +3,26 @@
 ####  :wave: Welcome my github profile !
  
  <br/>
+
+#### Portfolio
+
+<div style="display:flex; flex-direction:row;">
+    <a href="https://plausible-canopy-e4b.notion.site/Portfolio-406e18cb6b234867b14e84796f0e8d1b?pvs=4">
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=#000000"> 
+    </a>
+</div><br>
   
 ####  :clipboard: Skills
   
  <br/>
 
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
+<img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
 
  
    <br/>
@@ -21,7 +30,7 @@
 
 ## 📞 Contact
 
-qeqw3435@naver.com
+
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:qeqw3435@naver.com">
         <img src="https://img.shields.io/badge/Naver-000000?style=for-the-badge&logo=Naver&logoColor=#03C75A"> 
@@ -100,7 +109,7 @@ qeqw3435@naver.com
 |월간 데이콘 법원 판결 예측 AI 경진대회|23.06 ~ 23.07|법원 판결문 예측 AI 모델 개발|데이콘|BERT|
 |생성 이미지 판별|23.07 ~ 23.07|생성 AI로 생성한 가짜 이미지를 판별하는 AI 모델 개발|AI Connect|Efficient Net|
 
-
+qeqw3435@naver.com
 인스타그램
 
     <a href="https://www.instagram.com/easth526/">
@@ -109,6 +118,7 @@ qeqw3435@naver.com
 
 로고들
 
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 
