@@ -1,5 +1,34 @@
-### Skills
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
+<div align="center"> 
+
+####  :wave: Welcome my github profile !
+
+ <br/>
+ <br/>
+  
+####  :clipboard: Skills
+  
+ <br/>
+
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+ 
+   <br/>
+   <br/>
+ 
+#### :pencil2: Study log
+ 
+  <br/>
+    
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dandelion_26&slug=Chapter-1&color=dark&)](https://velog.io/@dandelion_26)
+</div>
+
+    
 
 ### Education
 
@@ -59,6 +88,10 @@
 
 <!--
 **Eastha0526/Eastha0526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=980526&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eastha0526&show_icons=true&theme=radical)
 
