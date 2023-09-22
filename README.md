@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20My%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+####  :wave: Welcome my github profile !
  
  <br/>
   
@@ -20,6 +20,8 @@
    <br/>
 
 ## 📞 Contact
+
+qeqw3435@naver.com
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:qeqw3435@naver.com">
         <img src="https://img.shields.io/badge/Naver-000000?style=for-the-badge&logo=Naver&logoColor=#03C75A"> 
@@ -33,7 +35,7 @@
     
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dandelion_26&slug=Chapter-1&color=dark&)](https://velog.io/@dandelion_26)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eastha0526)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
 
@@ -99,15 +101,22 @@
 |생성 이미지 판별|23.07 ~ 23.07|생성 AI로 생성한 가짜 이미지를 판별하는 AI 모델 개발|AI Connect|Efficient Net|
 
 
+인스타그램
 
     <a href="https://www.instagram.com/easth526/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
 
+로고들
+
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 
-####  :wave: Welcome my github profile !
+
+
+처음헤더
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20My%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome-my-github-profile&fontSize=45)
 
@@ -115,7 +124,12 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=980526&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eastha0526)](https://github.com/anuraghazra/github-readme-stats)
+
+깃헙스탯보기
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eastha0526&show_icons=true&theme=radical)
+깃헙 사용 언어 보기
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eastha0526&layout=compact"><br><br>
 
 Here are some ideas to get you started:
 
