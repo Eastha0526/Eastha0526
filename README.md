@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20My%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
  
  <br/>
- <br/>
   
 ####  :clipboard: Skills
   
@@ -15,11 +14,18 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+
  
    <br/>
    <br/>
+
+## 📞 Contact
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:qeqw3435@naver.com">
+        <img src="https://img.shields.io/badge/Naver-000000?style=for-the-badge&logo=Naver&logoColor=#03C75A"> 
+    </a>
+</div><br>
+
  
 #### :pencil2: Study log
  
@@ -88,7 +94,12 @@
 
 
 
+    <a href="https://www.instagram.com/easth526/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
 
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 
 ####  :wave: Welcome my github profile !
 
