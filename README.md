@@ -1,7 +1,7 @@
 <div align="center"> 
 
-####  :wave: Welcome my github profile !
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20My%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+ 
  <br/>
  <br/>
   
@@ -29,6 +29,8 @@
 </div>
 
     
+<!--
+**Eastha0526/Eastha0526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Education
 
@@ -86,8 +88,11 @@
 
 
 
-<!--
-**Eastha0526/Eastha0526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+####  :wave: Welcome my github profile !
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome-my-github-profile&fontSize=45)
 
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=980526&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
