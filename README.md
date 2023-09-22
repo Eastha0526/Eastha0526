@@ -32,7 +32,13 @@
   <br/>
     
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dandelion_26&slug=Chapter-1&color=dark&)](https://velog.io/@dandelion_26)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eastha0526)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
+
+
+
 
     
 <!--
