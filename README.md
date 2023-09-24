@@ -7,15 +7,16 @@
  
 ### Portfolio
 
+<br/>
+
 <div style="display:flex; flex-direction:row;">
     <a href="https://plausible-canopy-e4b.notion.site/Portfolio-406e18cb6b234867b14e84796f0e8d1b?pvs=4">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=#000000"> 
     </a>
-</div><br>
+</div>
   
 ###  :clipboard: Skills
-  
- <br/>
+
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=white"/>
@@ -26,20 +27,21 @@
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
  
    <br/>
-   <br/>
 
 ### 📞 Contact
+
+<br/>
 
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:qeqw3435@naver.com">
         <img src="https://img.shields.io/badge/Naver-000000?style=for-the-badge&logo=Naver&logoColor=#03C75A"> 
     </a>
-</div><br>
+</div>
 
  
 ### :pencil2: Study log
- 
-  <br/>
+
+ <br/>
     
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dandelion_26&slug=Chapter-1&color=dark&)](https://velog.io/@dandelion_26)
 
