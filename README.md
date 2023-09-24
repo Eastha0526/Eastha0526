@@ -3,7 +3,6 @@
 ####  :wave: Welcome my github profile !
  
  <br/>
-
 #### Portfolio
 
 <div style="display:flex; flex-direction:row;">
@@ -23,13 +22,11 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-
  
    <br/>
    <br/>
 
 ## 📞 Contact
-
 
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:qeqw3435@naver.com">
@@ -43,8 +40,6 @@
   <br/>
     
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dandelion_26&slug=Chapter-1&color=dark&)](https://velog.io/@dandelion_26)
-
-
 
 </div>
 
