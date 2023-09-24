@@ -5,7 +5,7 @@
  <br/>
 
  
-#### Portfolio
+### Portfolio
 
 <div style="display:flex; flex-direction:row;">
     <a href="https://plausible-canopy-e4b.notion.site/Portfolio-406e18cb6b234867b14e84796f0e8d1b?pvs=4">
@@ -13,7 +13,7 @@
     </a>
 </div><br>
   
-####  :clipboard: Skills
+###  :clipboard: Skills
   
  <br/>
 
@@ -28,7 +28,7 @@
    <br/>
    <br/>
 
-## 📞 Contact
+### 📞 Contact
 
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:qeqw3435@naver.com">
@@ -37,7 +37,7 @@
 </div><br>
 
  
-#### :pencil2: Study log
+### :pencil2: Study log
  
   <br/>
     
