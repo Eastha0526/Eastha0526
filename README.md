@@ -1,11 +1,16 @@
 <div align="center"> 
 
-####  :wave: Welcome my github profile !
+### <div align="center">I'm DonghaKim, Data Analyst 👨‍💻 </div> 
  
  <br/>
+ 
+ 🔭Hello. I'm a data analyst who wants to change the world by finding hidden insights in data.
+ <br/>
+🌱 I’m currently learning NLP and Recsys 
+<br/>
 
  
-### Portfolio
+### 💬Portfolio
 
 <br/>
 
@@ -34,16 +39,27 @@
 
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:qeqw3435@naver.com">
-        <img src="https://img.shields.io/badge/Naver-000000?style=for-the-badge&logo=Naver&logoColor=#03C75A"> 
-    </a>
-</div>
+        <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white style="margin-bottom: 5px;" /> 
 
+   </a>
+    
+<a href="https://linkedin.com/in/동하-김-872590284" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://github.com/Eastha0526" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+</div>
  
 ### :pencil2: Study log
 
  <br/>
     
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dandelion_26&slug=Chapter-1&color=dark&)](https://velog.io/@dandelion_26)
+
+
+### 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eastha0526)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
