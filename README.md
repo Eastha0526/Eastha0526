@@ -13,10 +13,12 @@
 ### 💬Portfolio
 
 <br/>
+
 <a href="https://my.surfit.io/w/5095468">
 <img src="https://img.shields.io/badge/read.cv-111111?style=for-the-badge&logo=read.cv&logoColor=#000000"> 
 <a href="https://plausible-canopy-e4b.notion.site/Portfolio-406e18cb6b234867b14e84796f0e8d1b?pvs=4">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=#000000"> 
+
   
 ###  :clipboard: Skills
 
