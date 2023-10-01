@@ -13,12 +13,10 @@
 ### 💬Portfolio
 
 <br/>
-
-<div style="display:flex; flex-direction:row;">
-    <a href="https://plausible-canopy-e4b.notion.site/Portfolio-406e18cb6b234867b14e84796f0e8d1b?pvs=4">
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=#000000"> 
-    </a>
-</div>
+<a href="https://my.surfit.io/w/5095468">
+<img src="https://img.shields.io/badge/read.cv-111111?style=for-the-badge&logo=read.cv&logoColor=#000000"> 
+<a href="https://plausible-canopy-e4b.notion.site/Portfolio-406e18cb6b234867b14e84796f0e8d1b?pvs=4">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=#000000"> 
   
 ###  :clipboard: Skills
 
@@ -37,18 +35,12 @@
 
 <br/>
 
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:qeqw3435@naver.com">
-        <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white style="margin-bottom: 5px;" /> 
-
-   </a>
-    
-<a href="https://linkedin.com/in/동하-김-872590284" target="_blank">
+<a href="mailto:qeqw3435@naver.com">
+<img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white" alt="naver" style="margin-bottom: 5px;" />
+<a href="www.linkedin.com/in/dandelion26" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 <a href="https://github.com/Eastha0526" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-
-</div>
  
 ### :pencil2: Study log
 
