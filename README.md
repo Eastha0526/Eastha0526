@@ -1,6 +1,6 @@
 <div align="center"> 
 
-### <div align="center">I'm DonghaKim, Data Analyst 👨‍💻 </div> 
+### <div align="center">I'm Dongha Kim, Data Analyst 👨‍💻 </div> 
  
  <br/>
  
