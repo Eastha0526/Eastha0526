@@ -4,7 +4,7 @@
  
  <br/>
  
- 🔭Hello. I'm a data analyst who wants to change the world by finding hidden insights in data.
+🔭 Hello. I'm a data analyst who wants to change the world by finding hidden insights in data.
  <br/>
 🌱 I’m currently learning NLP and Recsys 
 <br/>
