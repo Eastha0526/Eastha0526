@@ -39,9 +39,9 @@
 
 <a href="mailto:qeqw3435@naver.com">
 <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white" alt="naver" style="margin-bottom: 5px;" />
-<a href="www.linkedin.com/in/dandelion26" target="_blank">
+<a href="www.linkedin.com/in/dandelion26">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-<a href="https://github.com/Eastha0526" target="_blank">
+<a href="https://github.com/Eastha0526">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 
 
