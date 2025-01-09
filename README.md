@@ -1,12 +1,12 @@
 <div align="center"> 
 
-### <div align="center">I'm Dongha Kim, Data Analyst 👨‍💻 </div> 
+### <div align="center">I'm Dongha Kim, AI Researcher 👨‍💻 </div> 
  
  <br/>
  
-🔭 Hello. I'm a data analyst who wants to change the world by finding hidden insights in data.
+🔭 Hello. I'm AI Researcher who wants to change the world by Using Artifical Intelligence.
  <br/>
-🌱 I’m currently learning NLP and Recsys 
+🌱 I’m currently learning Multimodal and Generative AI. 
 <br/>
 
  
