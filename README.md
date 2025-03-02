@@ -47,6 +47,17 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 
 
+
+
+
+</div>
+
+
+
+
+    
+<!--
+
 ### ETC
 <table><tr><td valign="top" width="33%">
 
@@ -64,15 +75,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eastha0526)](https://github.com/anuraghazra/github-readme-stats)
 
 </tr></td></table>
-
-
-
-</div>
-
-
-
-
-    
-<!--
 
 -->
